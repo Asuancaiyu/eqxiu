@@ -1,0 +1,39 @@
+[ 2015-04-22T22:19:23+08:00 ] 122.190.120.141 /?c=scene&a=promotion&pageNo=1&pageSize=9&time=1429712476802
+ERR: SQLSTATE[28000] [1045] Access denied for user 'ewesambo'@'localhost' (using password: YES)
+
+[ 2015-04-22T22:20:23+08:00 ] 122.190.120.141 /index.php?c=user&a=check&time=1429712536386
+ERR: SQLSTATE[28000] [1045] Access denied for user 'ewesambo'@'localhost' (using password: YES)
+
+[ 2015-04-22T22:20:23+08:00 ] 122.190.120.141 /?c=scene&a=promotion&pageNo=1&pageSize=9&time=1429712536431
+ERR: SQLSTATE[28000] [1045] Access denied for user 'ewesambo'@'localhost' (using password: YES)
+
+[ 2015-04-22T22:43:44+08:00 ] 122.190.120.141 /index.php?c=user&a=register
+ERR: SQLSTATE[28000] [1045] Access denied for user 'ewesambo'@'localhost' (using password: YES)
+
+[ 2015-04-22T22:43:47+08:00 ] 122.190.120.141 /index.php?c=user&a=register
+ERR: SQLSTATE[28000] [1045] Access denied for user 'ewesambo'@'localhost' (using password: YES)
+
+[ 2015-04-22T22:43:50+08:00 ] 122.190.120.141 /index.php?c=user&a=register
+ERR: SQLSTATE[28000] [1045] Access denied for user 'ewesambo'@'localhost' (using password: YES)
+
+[ 2015-04-22T22:43:53+08:00 ] 122.190.120.141 /index.php?c=user&a=register
+ERR: SQLSTATE[28000] [1045] Access denied for user 'ewesambo'@'localhost' (using password: YES)
+
+[ 2015-04-22T22:50:35+08:00 ] 122.190.120.141 /index.php?c=user&a=check&time=1429714348706
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'ewesambo'@'localhost' (using password: YES)
+
+[ 2015-04-22T22:50:35+08:00 ] 122.190.120.141 /?c=scene&a=promotion&pageNo=1&pageSize=9&time=1429714348794
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'ewesambo'@'localhost' (using password: YES)
+
+[ 2015-04-22T22:50:55+08:00 ] 122.190.120.141 /index.php?c=user&a=register
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'ewesambo'@'localhost' (using password: YES)
+
+[ 2015-04-22T22:50:56+08:00 ] 122.190.120.141 /index.php?c=user&a=register
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'ewesambo'@'localhost' (using password: YES)
+
+[ 2015-04-22T23:40:13+08:00 ] 122.190.120.141 /?c=scene&a=promotion&pageNo=1&pageSize=9&time=1429717326504
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'ewesambo'@'localhost' (using password: YES)
+
+[ 2015-04-22T23:50:16+08:00 ] 122.190.120.141 /index.php?c=scene&a=opencount?time=1429717929707
+ERR: 非法操作:opencount?time=1429717929707
+
